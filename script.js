@@ -1,4 +1,4 @@
-const searchButton = document.getElementById('search-button');
+        const searchButton = document.getElementById('search-button');
         const searchInput = document.getElementById('search-input');
         const recipesContainer = document.getElementById('recipes-container');
         const favoritesContainer = document.getElementById('favorites-container');
