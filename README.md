@@ -4,4 +4,4 @@ The Recipe Finder is a user-friendly web application designed to help you search
 
 
 #try Out
-https://Fj1001.github.io/FeF-Recipe-Finder/
+https://FJ1001.github.io/FeF-Recipe-Finder/
